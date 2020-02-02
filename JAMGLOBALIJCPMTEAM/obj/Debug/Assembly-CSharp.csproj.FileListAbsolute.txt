@@ -1,0 +1,2 @@
+C:\Users\Aluno\Downloads\Team IJCPM JAMGLOBAL\JAMGLOBALIJCPMTEAM\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\Team IJCPM JAMGLOBAL\JAMGLOBALIJCPMTEAM\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

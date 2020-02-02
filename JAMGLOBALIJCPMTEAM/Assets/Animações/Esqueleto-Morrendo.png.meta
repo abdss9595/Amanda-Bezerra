@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 82ff6788718aace479d06fb6e58ad35a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4919046626460899859
+    second: Esqueleto-Morrendo_0
+  - first:
+      213: 2122342718638089711
+    second: Esqueleto-Morrendo_1
+  - first:
+      213: 730636543955240607
+    second: Esqueleto-Morrendo_2
+  - first:
+      213: -7523317813097423300
+    second: Esqueleto-Morrendo_3
+  - first:
+      213: -1742736095533247204
+    second: Esqueleto-Morrendo_4
+  - first:
+      213: -2073706497765361366
+    second: Esqueleto-Morrendo_5
+  - first:
+      213: -7164526058801129941
+    second: Esqueleto-Morrendo_6
+  - first:
+      213: 128488827385352632
+    second: Esqueleto-Morrendo_7
+  - first:
+      213: 2815781226101812290
+    second: Esqueleto-Morrendo_8
+  - first:
+      213: -5955934318676988568
+    second: Esqueleto-Morrendo_9
+  - first:
+      213: 5101668769932958461
+    second: Esqueleto-Morrendo_10
+  - first:
+      213: 6931037831337471114
+    second: Esqueleto-Morrendo_11
+  - first:
+      213: 7716206144107289222
+    second: Esqueleto-Morrendo_12
+  - first:
+      213: 1432476509077648531
+    second: Esqueleto-Morrendo_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esqueleto-Morrendo_0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3405
+        width: 469
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148e34aecb6f3f41b198dc20852325e
+      internalID: 4919046626460899859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto-Morrendo_1
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 3360
+        width: 687
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b222c638185945a09b5f60a9323ee
+      internalID: 2122342718638089711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto-Morrendo_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1742
+        width: 718
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d577773065fc5dc47babc53a1d136b42
+      internalID: 730636543955240607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto-Morrendo_3
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1723
+        width: 724
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae87a7efebd92f4e923399e338ec79f
+      internalID: -7523317813097423300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esqueleto-Morrendo_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 160
+        width: 828
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc71a99a7f63f44bfe2230327161f4
+      internalID: -1742736095533247204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f1e9554274f5b95478f3a5dfc648eec0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

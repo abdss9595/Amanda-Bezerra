@@ -1,0 +1,3 @@
+﻿1>------ Compilação iniciada: Projeto: Assembly-CSharp, Configuração: Debug Any CPU ------
+1>  Assembly-CSharp -> C:\Users\Aluno\Downloads\Team IJCPM JAMGLOBAL\GameDaJam\Temp\bin\Debug\Assembly-CSharp.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
